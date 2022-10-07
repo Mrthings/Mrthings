@@ -1,8 +1,8 @@
-- 👋 Hi,这里是Trskky
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi,这里是东澪
+- 👀 软件工程专业
+- 🌱 目前正在学Java与C
+- 💞️ 酷安@东澪，
+- 
 
 <!---
 Mrthings/Mrthings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
